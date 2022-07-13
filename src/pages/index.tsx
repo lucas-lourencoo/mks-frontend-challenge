@@ -29,10 +29,10 @@ const Home: NextPage = () => {
             ))
           ) : (
             <>
-              <Skeleton height='30rem' />
-              <Skeleton height='30rem' />
-              <Skeleton height='30rem' />
-              <Skeleton height='30rem' />
+              <Skeleton height='40rem' />
+              <Skeleton height='40rem' />
+              <Skeleton height='40rem' />
+              <Skeleton height='40rem' />
             </>
           )}
         </div>
