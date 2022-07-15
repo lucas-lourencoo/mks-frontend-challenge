@@ -4,10 +4,10 @@ Made with: **NextJS**, **Redux** and **styled-components**
 
 
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install it locally using yarn:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+$ cd ../mks-frontend-challenge
+$ yarn
+$ yarn dev
 ```
